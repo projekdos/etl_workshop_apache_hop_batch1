@@ -8,9 +8,9 @@ This is a hands-on quiz of **Metadata Injection in Apache Hop**, designed for Bu
 
 Submit your answers to: info@projekdos.com with your google drive video link
 
-🗓️ Deadline: 14 June, 2025 – 23:59 WIB  
-🏆 Winner Criteria: Correct Answer, Informative, Unique
-🎁 Reward: Free Merchandise, video content will be uploaded on Youtube
+- Deadline: 14 June, 2025 – 23:59 WIB  
+- Winner Criteria: Correct Answer, Informative, Unique
+- Reward: Free Merchandise, video content will be uploaded on Youtube
 
 ---
 
