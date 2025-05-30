@@ -1,6 +1,6 @@
 # Projek Freedom Open Source - Apache Hop Metadata Injection Quiz
 
-![Alt text](https://github.com/projekdos/etl_workshop_apache_hop_batch1/blob/main/Image/header.jpeg)
+![Alt text](https://github.com/projekdos/etl_workshop_apache_hop_batch1/blob/main/Image/Header.jpeg)
 
 This is a hands-on quiz of **Metadata Injection in Apache Hop**, designed for Building ETL workshop.
 
@@ -34,10 +34,9 @@ Notes:
 
 Imagine you have IT users who store custom report SQL queries in a table called `report_queries`, like:
 
-| report_id | report_name                  | query                                                                   |
-|-----------|------------------------------|-------------------------------------------------------------------------|
-| 1         | total_customer_by_branch     | Insert into tbl_report (branch,total_customer)                          |
-|           |                              | SELECT branch, count(1) as total_customer FROM customers group by branch|
+| report_id | report_name                  | query                                                                                                                  |
+|-----------|------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1         | total_customer_by_branch     | Insert into tbl_report (branch,total_customer) SELECT branch, count(1) as total_customer FROM customers group by branch|
 
 The sql statement will be running without create new pipelines in Apache Hop. The Result will be stored in `tbl_report` as output
 
@@ -59,7 +58,7 @@ The sql statement will be running without create new pipelines in Apache Hop. Th
 Good luck, and happy RnD!
 
 Contact:
- - email: info@projekdos.com
- - whatsapp: +6281385368844 (Admin)
+ - Email: info@projekdos.com
+ - Whatsapp: +6281385368844 (Admin)
  - Linkedin: https://www.linkedin.com/company/projek-dos/
  - Youtube: https://www.youtube.com/@wndktech
