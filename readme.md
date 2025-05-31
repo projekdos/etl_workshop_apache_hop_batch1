@@ -67,11 +67,11 @@ Good luck, and happy RnD!
 
 This hands-on workshop Prepared by Firman Fakhri Mukti & Wandhana Kurnia that participants can learn :
 
-🟣 ETL Fundamental & Hands On
-🟣 Integrate data from multiple sources (ex: CSV, Excel, Parquet)
-🟣 Clean & transform data with Apache Hop: Rename, lookup, case when, group by, sort, string cleansing, split multivalue (array)
-🟣 Load data into PostgreSQL, Apache Doris, & More
-🟣 Building End to End ETL Workflow
+- ETL Fundamental & Hands On
+- Integrate data from multiple sources (ex: CSV, Excel, Parquet)
+- Clean & transform data with Apache Hop: Rename, lookup, case when, group by, sort, string cleansing, split multivalue (array)
+- Load data into PostgreSQL, Apache Doris, & More
+- Building End to End ETL Workflow
 
 
 Contact:
