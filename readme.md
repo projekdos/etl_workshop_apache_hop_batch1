@@ -28,6 +28,12 @@ Notes:
 1. You must RnD the Metadata Injection for Apache Hop/Pentaho Data Integration -> https://hop.apache.org/manual/latest/pipeline/metadata-injection.html
 2. The Idea of ETL workflow is up to your creativity
 
+- SQL Statement (Blank)
+![Alt text](https://github.com/projekdos/etl_workshop_apache_hop_batch1/blob/main/Image/sql_statement.png)
+
+- Metadata Injection
+![Alt text](https://github.com/projekdos/etl_workshop_apache_hop_batch1/blob/main/Image/metadata_injection.png)
+
 ---
 
 ## Example Use Case
