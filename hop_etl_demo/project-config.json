@@ -1,0 +1,19 @@
+{
+  "variables" : [ {
+    "name" : "STAGING_SERVER",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "STAGING_DATABASE",
+    "value" : "postgres",
+    "description" : ""
+  }, {
+    "name" : "STAGING_PORT",
+    "value" : "5432",
+    "description" : ""
+  }, {
+    "name" : "STAGING_USERNAME",
+    "value" : "admin",
+    "description" : ""
+  } ]
+}
